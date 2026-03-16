@@ -27,12 +27,6 @@ To configure:
 - **Accessibility** support with VoiceOver labels and hints, and adaptive layouts for larger accessibility text sizes
 - **Localization-ready** with String Catalog (`Localizable.xcstrings`)
 
-## Screenshots
-
-| List | Detail | Splash |
-|------|--------|--------|
-| Grouped repository list with avatars, language, and star counts | Full repository stats, metadata, and actions | Compass-themed animated launch screen |
-
 ## Architecture
 
 ```
